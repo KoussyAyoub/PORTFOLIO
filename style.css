@@ -605,9 +605,7 @@ span.badge {
         width: 14%;
         margin-left: 0.5px;
     }
-    .bts {
-        margin-left: -60px;
-    }
+    
 
 }
 
@@ -716,6 +714,9 @@ span.badge {
 
     .card6 {
         margin-left: 20% !important;
+    }
+    .bts {
+        margin-left: -60px;
     }
     
 }
