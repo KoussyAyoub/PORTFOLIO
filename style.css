@@ -605,6 +605,9 @@ span.badge {
         width: 14%;
         margin-left: 0.5px;
     }
+    .bts {
+        margin-left: -60px;
+    }
 
 }
 
